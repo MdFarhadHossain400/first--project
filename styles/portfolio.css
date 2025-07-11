@@ -95,7 +95,7 @@
         
         .img-sec {
             margin-left: 20px;
-            background-image: url('/image/wc-mini.png');
+            background-image: url(/image/wc-mini.png);
             background-size: cover;
             background-repeat: no-repeat;
             height: 328px; ;
